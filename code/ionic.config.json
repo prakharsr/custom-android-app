@@ -1,0 +1,10 @@
+{
+  "name": "customApp",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
